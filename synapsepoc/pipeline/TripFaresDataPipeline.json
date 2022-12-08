@@ -481,7 +481,7 @@
 			},
 			"datalakeAccountName": {
 				"type": "string",
-				"defaultValue": " cona5yhfwv7hyds2poc"
+				"defaultValue": "cona5yhfwv7hyds2poc"
 			}
 		},
 		"folder": {
